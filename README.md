@@ -8,7 +8,10 @@ makefile inside your current working directory and displays them using
 With Lazy:
 
 ```lua
-{"elias-gill/makeman"dependencies = {"nvim-telescope/telescope.nvim"}}
+{
+    "elias-gill/makeman",
+    dependencies = { "nvim-telescope/telescope.nvim" }
+}
 ```
 
 ## Usage
