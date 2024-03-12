@@ -3,6 +3,11 @@ A simple plugin for listing and running makefile targets. It searches for a
 makefile inside your current working directory and displays them using 
 [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim).
 
+## Dependencies
+
+- Telescope
+- Tmux
+
 ## Installation
 
 With Lazy:
